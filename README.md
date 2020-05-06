@@ -16,5 +16,10 @@ Well before the use of Deep Learning in the field of Stock Prediction, the proce
 
 But Sequence Models changed everything and led to a massive improvement in state-of-the-art results in the finance industry.
 
+`stock_prediction_using_sequence_models.ipynb` includes Stock Prediction using an LSTM network
 
-
+`Stock_Prediction_Using_Different_Methods.ipynb` includes Stock Price Prediction using methods : 
+1) Last Value Method
+2) Moving Average
+3) Linear Regression
+4) Exponentially Moving Average
